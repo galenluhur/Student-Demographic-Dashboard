@@ -1,3 +1,5 @@
+This project showcases a fully interactive Power BI dashboard designed to support faculty and administrative decision-making at Trinity Christian College. While the original dataset is confidential, this repository includes annotated screenshots to illustrate the dashboard's structure, features, and insights.
+
 🔍 Overview
 -Built using over 300,000 rows of student data from CAMS and Slate, integrated in real-time.
 -Designed to analyze enrollment trends, retention, graduation rates, and student demographics across terms.
